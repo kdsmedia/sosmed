@@ -167,7 +167,7 @@ chmod +x linux.sh
 ```
 git clone https://github.com/kdsmedia/sosmed
 
-cd sosmes
+cd sosmed
 
 cd cmd
 
