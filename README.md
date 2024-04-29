@@ -1,5 +1,3 @@
-### NOTE -> not maintained!!!
-_[click here](https://www.instagram.com/nullpulsegithub/)_ if you want to ask something.
 
 ---
 
@@ -19,7 +17,7 @@ Social Media Hacking Toolkit
  
 
  <h6><p align="center">
-    perform different types of <a href="https://github.com/NullPulse/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/NullPulse/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
+    perform different types of <a href="https://github.com/kdsmedia/sosmed/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/kdsmedia/sosmed/blob/main/cmd/supported-social.txt">social media</a>
 </p></h6>
 </p>
 <p align="center">
@@ -27,7 +25,7 @@ Social Media Hacking Toolkit
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
   <img src="https://img.shields.io/badge/author-NullPulse-141449" alt=""/>
  <h6><p align="center" style="color:yellow">
-    <i>please read at least the section regarding <a href="https://github.com/NullPulse/SocialMediaHackingToolkit#Trustability">trustability</a>
+    <i>please read at least the section regarding <a href="https://github.com/kdsmedia/sosmed#Trustability">trustability</a>
 </i></a>
 </p></h6>
 
@@ -92,9 +90,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/kdsmedia/sosmed
 
-cd SocialMediaHackingToolkit
+cd sosmed
 
 yay install windscribe-cli
 
@@ -117,9 +115,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/kdsmedia/sosmed
 
-cd SocialMediaHackingToolkit
+cd sosmed
 
 cd dependencies
 
@@ -142,9 +140,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/kdsmedia/sosmed
 
-cd SocialMediaHackingToolkit
+cd sosmed
 
 cd dependencies
 
@@ -167,9 +165,9 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/kdsmedia/sosmed
 
-cd SocialMediaHackingToolkit
+cd sosmes
 
 cd cmd
 
@@ -188,7 +186,7 @@ chmod +x linux.sh
 ```
 # download zip file of the repository
 
-# extract zip file and open terminal into "SocialMediaHacking" folder
+# extract zip file and open terminal into "sosmed" folder
 
 cd cmd
 
@@ -327,7 +325,7 @@ you can verify that the program works by testing it on **your profile**, open th
   <img src="images/issues.gif" alt=""/>
 </p>
 
-If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/NullPulse/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
+If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/kdsmedia/sosmed/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
 
 <br>
 
@@ -335,5 +333,5 @@ If you have encountered an issue with SocialMediaHackingToolkit or would like to
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NullPulse/socialmediahackingtoolkit&type=Date)](https://star-history.com/#NullPulse/socialmediahackingtoolkit&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kdsmedia/sosmed&type=Date)](https://star-history.com/#kdsmedia/sosmed&Date)
 
